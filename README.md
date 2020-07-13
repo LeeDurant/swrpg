@@ -1,4 +1,4 @@
-# swrpg
+# Unofficial FFG Star Wars RPG Compendium
  
 
     Author: Lee Durant
