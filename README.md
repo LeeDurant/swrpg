@@ -25,6 +25,9 @@ Installation Guide
 
 License and Credits
 
-Tokens utilized from PogS (https://www.patreon.com/PogS_Props). All trademarks and copyright for Star Wars belong to LucasFilm, Disney, or Electronic Arts. I do not own any of this content and it is not for sale.
+    Tokens utilized from PogS (https://www.patreon.com/PogS_Props). All trademarks and copyright for Star Wars belong to LucasFilm, Disney, or Electronic Arts. 
 
-This Foundry VTT module is licensed under the Open Gaming License (OGL), Version 1.0a . This work is licensed under Foundry Virtual Tabletop EULA - Limited License Agreement.
+    I do not own any of this content and it is not for sale.
+
+    This Foundry VTT module is licensed under the Open Gaming License (OGL), Version 1.0a . 
+    This work is licensed under Foundry Virtual Tabletop EULA - Limited License Agreement.
