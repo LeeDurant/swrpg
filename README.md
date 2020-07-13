@@ -18,6 +18,8 @@ Description
 Installation Guide
 
     Open the Foundry application
+    Double check that you have installed the latest OggDude's dataset.
+         *not doing so may cause certain values to be missing from the module!*
     Go to "Add-On Modules" tab
     Click "Install Module" button at the bottom.
     Paste the following link: https://raw.githubusercontent.com/LeeDurant/swrpg/Prod/module.json
