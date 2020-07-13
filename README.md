@@ -12,7 +12,8 @@ Link(s) to Module
 
 Description
 
-    A set of compendiums for the Star Wars RPG system developed by Fantasy Flight Games (https://www.fantasyflightgames.com/en/starwarsrpg/). 
+    A set of compendiums for the Star Wars RPG system developed by Fantasy Flight Games 
+    (https://www.fantasyflightgames.com/en/starwarsrpg/). 
 
 Installation Guide
 
@@ -25,7 +26,9 @@ Installation Guide
 
 License and Credits
 
-    Tokens utilized from PogS (https://www.patreon.com/PogS_Props). All trademarks and copyright for Star Wars belong to LucasFilm, Disney, or Electronic Arts. 
+    Tokens utilized from PogS (https://www.patreon.com/PogS_Props). 
+    
+    All trademarks and copyright for Star Wars belong to LucasFilm, Disney, or Electronic Arts. 
 
     I do not own any of this content and it is not for sale.
 
