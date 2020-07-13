@@ -9,9 +9,9 @@
    "url": "https://github.com/LeeDurant/swrpg-unofficial",
    "packs": [
     {
-      "name": "chars",
+      "name": "actors",
       "label": "SWRPG Characters",
-      "path": "packs/chars.db",
+      "path": "packs/actors.db",
       "entity": "Actor",
       "module": "swrpg"
     },
