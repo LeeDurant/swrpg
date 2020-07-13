@@ -25,6 +25,18 @@ Installation Guide
     Paste the following link: https://raw.githubusercontent.com/LeeDurant/swrpg/Prod/module.json
     Click "Install"
     Activate the module in your World using Manage Modules under the Game Settings tab.
+    
+Usage Notes
+   
+    I, or any other authors or contributors, are not responsible for changes that may result from updates,
+    hot fixes or changes that may occur in the compendiums that may affect your game. It is recommended
+    that you back up the module before updating to ensure that there are no issues with forward compatability.
+    
+    This is an on-going project that has grown out of a personal interest to have a more portable set of data
+    for the FFG-SWRPG system. Changes, content and more may reflect that personal interest. We will do our best
+    to maintain authenticity to previous statted characters as provided by either FFG or the fan community, but
+    please understand if you discover some changes or discrepencies that this is a free project and provided
+    as such.
 
 License and Credits
 
