@@ -40,7 +40,7 @@ Usage Notes
 
 License and Credits
 
-    Tokens utilized from PogS (https://www.patreon.com/PogS_Props). 
+    Tokens utilized from PogS (https://www.patreon.com/PogS_Props) and Devin Night (https://immortalnights.com/).
     
     All trademarks and copyright for Star Wars belong to LucasFilm, Disney, or Electronic Arts. 
 
