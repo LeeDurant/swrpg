@@ -24,11 +24,5 @@
       "entity": "Scene",
       "module": "swrpg"
     }
-	{
-	  "name": "sounds",
-      "label": "SWRPG Sounds",
-      "path": "/packs/sounds.db",
-      "entity": "Playlist"
-	}
   ]
  }
