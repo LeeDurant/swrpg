@@ -29,7 +29,6 @@
       "label": "SWRPG Sounds",
       "path": "/packs/sounds.db",
       "entity": "Playlist"
-	  "module": "swrpg"
 	}
   ]
  }
