@@ -2,7 +2,7 @@
  
 
     Author: Lee Durant
-    Version: 1.0.0
+    Version: 1.0.1
     Foundry VTT Compatibility: 0.6.5
     System Compatibility: https://github.com/StarWarsFoundryVTT/StarWarsFFG
 
@@ -28,9 +28,21 @@ Installation Guide
     
 Usage Notes
    
+    Tokens and characters have been developed using stats from http://swa.stoogoff.com and include
+    background entries either written by the contributors or from Wookiepedia. They do not need to 
+    have species or specifications added to be fully functional, as they were assembled prior to
+    those functions being fully supported in the proper FFG-SWRPG module for FoundryVTT.
+    
+    Tokens have vision activated, allowing them to be dropped right into your game and have lines-of-
+    sight (LoS) already configured within the FoundryVTT dynamic lighting system. LoS will depend 
+    on the headgear of the token and physical eye placement on the species of the token in question.
+    For the best experience using this effect, we recommend downloading Forien's Token Rotation
+    module.
+    
     I, or any other authors or contributors, are not responsible for changes that may result from updates,
     hot fixes or changes that may occur in the compendiums that may affect your game. It is recommended
     that you back up the module before updating to ensure that there are no issues with forward compatability.
+    
     
     This is an on-going project that has grown out of a personal interest to have a more portable set of data
     for the FFG-SWRPG system. Changes, content and more may reflect that personal interest. We will do our best
@@ -38,9 +50,16 @@ Usage Notes
     please understand if you discover some changes or discrepencies that this is a free project and provided
     as such.
 
+Future Plans
+    
+    We will be adding as many characters as possible, with the hopes of using all of the tokens within the
+    module's token folder. If folders are ever supported for actors, we will do our best to categorize them
+    as well into eras, classes or species.
+
 License and Credits
 
-    Tokens utilized from PogS (https://www.patreon.com/PogS_Props) and Devin Night (https://immortalnights.com/).
+    Tokens utilized from PogS (https://www.patreon.com/PogS_Props) 
+    and Devin Night (https://immortalnights.com/).
     
     All trademarks and copyright for Star Wars belong to LucasFilm, Disney, or Electronic Arts. 
 
