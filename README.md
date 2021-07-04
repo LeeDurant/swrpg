@@ -2,8 +2,8 @@
  
 
     Author: Lee Durant
-    Version: 1.0.1
-    Foundry VTT Compatibility: 0.6.5
+    Version: 1.0.12
+    Foundry VTT Compatibility: 0.8.8
     System Compatibility: https://github.com/StarWarsFoundryVTT/StarWarsFFG
 
 Link(s) to Module
