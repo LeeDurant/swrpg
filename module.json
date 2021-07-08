@@ -3,12 +3,24 @@
    "title": "Unofficial SWRPG Compendium",   
    "description": "Sharing from a galaxy far, far away",   
    "author": "LeeDurant",
-   "version": "1.0.13",
+   "version": "1.0.14",
    "minimumCoreVersion": "0.7.10",
    "compatibleCoreVersion":"0.8.8",
    "url": "https://github.com/LeeDurant/swrpg",
    "download": "https://github.com/LeeDurant/swrpg/archive/Prod.zip",
    "manifest": "https://raw.githubusercontent.com/LeeDurant/swrpg/Prod/module.json",
+   "dependencies": [
+        {
+            "name": "starwarsffg",
+            "type": "system",
+            "manifest": "https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json"
+        }
+		{
+			"name": "vtt-compendium-folders",
+			"type": "module",
+			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+		}
+    ],
    "packs": [
     {
       "name": "actors",
