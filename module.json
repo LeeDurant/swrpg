@@ -18,7 +18,7 @@
 		{
 			"name": "vtt-compendium-folders",
 			"type": "module",
-			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
 		}
     ],
    "packs": [
