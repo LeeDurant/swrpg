@@ -14,7 +14,7 @@
             "name": "starwarsffg",
             "type": "system",
             "manifest": "https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json"
-        }
+        },
 		{
 			"name": "vtt-compendium-folders",
 			"type": "module",
