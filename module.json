@@ -19,6 +19,11 @@
 			"name": "compendium-folders",
 			"type": "module",
 			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
+		},
+		{
+			"name": "lib-wrapper",
+			"type": "module",
+			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
 		}
     ],
    "packs": [
